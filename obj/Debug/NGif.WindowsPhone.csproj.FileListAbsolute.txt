@@ -1,0 +1,16 @@
+D:\code\gitHub\NGif\NGif\NGif.WindowsPhone\Bin\Debug\NGif.WindowsPhone.dll
+D:\code\gitHub\NGif\NGif\NGif.WindowsPhone\Bin\Debug\NGif.WindowsPhone.pdb
+D:\code\gitHub\NGif\NGif\NGif.WindowsPhone\Bin\Debug\WriteableBitmapExWinPhone.dll
+D:\code\gitHub\NGif\NGif\NGif.WindowsPhone\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+D:\code\gitHub\NGif\NGif\NGif.WindowsPhone\Bin\Debug\WriteableBitmapExWinPhone.xml
+D:\code\gitHub\NGif\NGif\NGif.WindowsPhone\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+D:\code\gitHub\NGif\NGif\NGif.WindowsPhone\obj\Debug\ResolveAssemblyReference.cache
+D:\code\gitHub\NGif\NGif\NGif.WindowsPhone\obj\Debug\NGif.WindowsPhone.dll
+D:\code\gitHub\NGif\NGif\NGif.WindowsPhone\obj\Debug\NGif.WindowsPhone.pdb
+D:\code\NGif\NGif.WindowsPhone\Bin\Debug\NGif.WindowsPhone.dll
+D:\code\NGif\NGif.WindowsPhone\Bin\Debug\NGif.WindowsPhone.pdb
+D:\code\NGif\NGif.WindowsPhone\Bin\Debug\WriteableBitmapExWinPhone.xml
+D:\code\NGif\NGif.WindowsPhone\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+D:\code\NGif\NGif.WindowsPhone\obj\Debug\ResolveAssemblyReference.cache
+D:\code\NGif\NGif.WindowsPhone\obj\Debug\NGif.WindowsPhone.dll
+D:\code\NGif\NGif.WindowsPhone\obj\Debug\NGif.WindowsPhone.pdb
