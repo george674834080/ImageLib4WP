@@ -1,0 +1,8 @@
+D:\code\imageTools\bin\Phone\ImageTools.IO.Bmp.XML
+D:\code\imageTools\bin\Phone\ImageTools.IO.Bmp.dll
+D:\code\imageTools\bin\Phone\ImageTools.IO.Bmp.pdb
+D:\code\imageTools\bin\Phone\ImageTools.IO.Bmp.dll.CodeAnalysisLog.xml
+D:\code\imageTools\bin\Phone\ImageTools.IO.Bmp.dll.lastcodeanalysissucceeded
+D:\code\imageTools\src\ImageTools\ImageTools.IO.Bmp.Phone\obj\Release\ResolveAssemblyReference.cache
+D:\code\imageTools\src\ImageTools\ImageTools.IO.Bmp.Phone\obj\Release\ImageTools.IO.Bmp.dll
+D:\code\imageTools\src\ImageTools\ImageTools.IO.Bmp.Phone\obj\Release\ImageTools.IO.Bmp.pdb

@@ -1,0 +1,8 @@
+D:\code\imageTools\bin\Phone\ImageTools.IO.Gif.XML
+D:\code\imageTools\bin\Phone\ImageTools.IO.Gif.dll
+D:\code\imageTools\bin\Phone\ImageTools.IO.Gif.pdb
+D:\code\imageTools\bin\Phone\ImageTools.IO.Gif.dll.CodeAnalysisLog.xml
+D:\code\imageTools\bin\Phone\ImageTools.IO.Gif.dll.lastcodeanalysissucceeded
+D:\code\imageTools\src\ImageTools\ImageTools.IO.Gif.Phone\obj\Release\ResolveAssemblyReference.cache
+D:\code\imageTools\src\ImageTools\ImageTools.IO.Gif.Phone\obj\Release\ImageTools.IO.Gif.dll
+D:\code\imageTools\src\ImageTools\ImageTools.IO.Gif.Phone\obj\Release\ImageTools.IO.Gif.pdb

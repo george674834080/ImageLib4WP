@@ -1,0 +1,7 @@
+D:\code\imageTools\bin\Phone\ImageTools.dll
+D:\code\imageTools\bin\Phone\ImageTools.pdb
+D:\code\imageTools\bin\Phone\ImageTools.dll.CodeAnalysisLog.xml
+D:\code\imageTools\bin\Phone\ImageTools.dll.lastcodeanalysissucceeded
+D:\code\imageTools\src\ImageTools\ImageTools.Phone\obj\Debug\ResolveAssemblyReference.cache
+D:\code\imageTools\src\ImageTools\ImageTools.Phone\obj\Debug\ImageTools.dll
+D:\code\imageTools\src\ImageTools\ImageTools.Phone\obj\Debug\ImageTools.pdb
